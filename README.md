@@ -7,6 +7,7 @@ We investigate the use of Autoencoders for reducing the dimensionality of KMNIST
 we enforce the model to maximize the entropy of the latent code distribution which helps  in spreading out the latents while at the same time minimizes the cross-entropy between the latent code and the prior distributions which makes latent codes fit the prior distribution better.
 - Swiss Roll
 ![img1](/data/Picture1.png)
+
 - Gaussian
 ![img2](/data/Picture2.png)
 
