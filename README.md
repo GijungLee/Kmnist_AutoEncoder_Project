@@ -10,17 +10,9 @@ We enforce the model to maximize the entropy of the latent code distribution whi
 
 - Swiss Roll
 
-![img1](/data/Picture1.png)
 <img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture1.png" width="700" height="250">
 
 - Gaussian
-
-
-![img2](/data/Picture2.png)
-
-
-![img3](/data/Picture3.png)
-
 
 <img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture2.png" width="700" height="250">
 
