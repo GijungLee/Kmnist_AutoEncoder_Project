@@ -14,7 +14,7 @@ We enforce the model to maximize the entropy of the latent code distribution whi
 
 - Gaussian
 
-<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture2.png" width="600" height="250">
+<img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture2.png" width="650" height="250">
 
 <img src="https://github.com/GijungLee/Kmnist_AutoEncoder_Project/raw/main/data/Picture3.png" width="300" height="300">
 
